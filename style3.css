@@ -1,0 +1,8 @@
+._1stFr {
+	-ms-flex: 1;
+	flex: 1;
+	background: #fff;
+	padding: 37px 0 0 50px;
+	position: relative;
+	min-height: 80vh;
+}
